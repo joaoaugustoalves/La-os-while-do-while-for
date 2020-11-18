@@ -1,0 +1,13 @@
+C:\Users\REI DELAS\Desktop\Aula dia 17\obj\Debug\netcoreapp3.1\Aula dia 17.csprojAssemblyReference.cache
+C:\Users\REI DELAS\Desktop\Aula dia 17\obj\Debug\netcoreapp3.1\Aula dia 17.AssemblyInfoInputs.cache
+C:\Users\REI DELAS\Desktop\Aula dia 17\obj\Debug\netcoreapp3.1\Aula dia 17.AssemblyInfo.cs
+C:\Users\REI DELAS\Desktop\Aula dia 17\obj\Debug\netcoreapp3.1\Aula dia 17.csproj.CoreCompileInputs.cache
+C:\Users\REI DELAS\Desktop\Aula dia 17\bin\Debug\netcoreapp3.1\Aula dia 17.exe
+C:\Users\REI DELAS\Desktop\Aula dia 17\bin\Debug\netcoreapp3.1\Aula dia 17.deps.json
+C:\Users\REI DELAS\Desktop\Aula dia 17\bin\Debug\netcoreapp3.1\Aula dia 17.runtimeconfig.json
+C:\Users\REI DELAS\Desktop\Aula dia 17\bin\Debug\netcoreapp3.1\Aula dia 17.runtimeconfig.dev.json
+C:\Users\REI DELAS\Desktop\Aula dia 17\bin\Debug\netcoreapp3.1\Aula dia 17.dll
+C:\Users\REI DELAS\Desktop\Aula dia 17\bin\Debug\netcoreapp3.1\Aula dia 17.pdb
+C:\Users\REI DELAS\Desktop\Aula dia 17\obj\Debug\netcoreapp3.1\Aula dia 17.dll
+C:\Users\REI DELAS\Desktop\Aula dia 17\obj\Debug\netcoreapp3.1\Aula dia 17.pdb
+C:\Users\REI DELAS\Desktop\Aula dia 17\obj\Debug\netcoreapp3.1\Aula dia 17.genruntimeconfig.cache
